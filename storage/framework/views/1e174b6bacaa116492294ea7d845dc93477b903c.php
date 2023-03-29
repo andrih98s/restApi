@@ -1,0 +1,1 @@
+<?php echo e($posts); ?><?php /**PATH /home/mrx/Desktop/laravel_api/resources/views/posts/index.blade.php ENDPATH**/ ?>
